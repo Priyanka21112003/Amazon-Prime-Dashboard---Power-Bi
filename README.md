@@ -1,4 +1,4 @@
-# 📊 Amazon Prime Video Dashboard - Power BI
+# 📊 Amazon Prime Video Dashboard Power BI
 
 Welcome to the **Amazon Prime Video Dashboard** project!  
 This dashboard provides a detailed and interactive visualization of Amazon Prime Video's content library, offering insights into:
